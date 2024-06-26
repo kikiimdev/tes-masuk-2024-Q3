@@ -38,11 +38,11 @@ Buat rancangan database untuk kasus dibawah ini
 - tendik bisa memiliki jabatan sebagai _Kepala Sekolah_ atau _Staff TU_, sedangkan guru hanya memiliki jabatan sebagai _Pengajar_
 - Pegawai bisa bekerja dibeberapa sekolah, dan memiliki jabatan dimasing-masing sekolah
 
-Setelah dibuat rancangannya, tampilkan rancangan tersebut dalam bentuk gambar (bebas, bisa menggunakan phpMyAdmin Designer View, Navicat Model, App Diagram, dsj)
+Setelah dibuat rancangannya, tampilkan rancangan tersebut dalam bentuk gambar (bebas, bisa menggunakan phpMyAdmin Designer View, Navicat Model, App Diagram, Excalidraw, dsj)
 
 # Pengumpulan Tugas
 
-Simpan gambar `Tugas #2` tersebut kedalam root folder aplikasi `Tugas #1` dengan nama `_TUGAS_2.jpg/png`
+Simpan gambar `Tugas #2` kedalam root folder aplikasi `Tugas #1` dengan nama `_TUGAS_2.jpg/png`
 
 Upload aplikasi `Tugas #1` melalui github, pastikan repositorinya publik
 
