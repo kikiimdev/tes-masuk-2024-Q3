@@ -48,4 +48,4 @@ Upload aplikasi `Tugas #1` melalui github, pastikan repositorinya publik
 
 Jika sudah selesai kirim link repositori melalui WhatsApp
 
-Batas waktu pengumpulan `Kamis, 27 Juni 2024 10:00 WITA`
+Batas waktu pengumpulan `Sabtu, 29 Juni 2024 10:00 WITA`
